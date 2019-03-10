@@ -157,6 +157,12 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
+<h2>Registration</h2>
+<p>
+Please fill in the <a href="https://goo.gl/forms/WBDGWbYkk9svKFTn2">registration form</a>. 
+The course is open to anyone, but in case of high demand, we will have to give preference to ELIXIR members.
+</p>
+
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
